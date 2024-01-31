@@ -1,4 +1,5 @@
 Boris Gavrish, Galina Tregubova
+
 Lomonosov Moscow State University (Moscow, Russia)
 
 Consequences of artificial intelligence implementation for labour market 
